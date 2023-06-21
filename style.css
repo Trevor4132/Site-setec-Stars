@@ -13,5 +13,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+}
+.banner video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    width: 100%;
 }
