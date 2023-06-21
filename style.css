@@ -20,12 +20,23 @@ body{
     left: 0;
     object-fit: cover;
     width: 100%;
-    z-index: 1;
 }
 .banner .content {
     position: relative;
-    z-index: 3;
+    z-index: 1;
     max-width: 100px;
     margin: 0 auto;
     text-align: center;
+}
+.banner .content h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 5.5em;
+    text-transform: uppercase;
+    color: ghostwhite;
+}
+.banner .content p {
+    font-size: 1.5em;
+    color: ghostwhite;
+    
 }
