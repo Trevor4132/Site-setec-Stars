@@ -26,7 +26,7 @@ body{
     z-index: 1;
     max-width: 100px;
     margin: 0 auto;
-    text-align: start;
+    text-align: left;
 }
 .banner .content h1 {
     margin: 0;
