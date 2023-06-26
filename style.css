@@ -36,3 +36,6 @@ body{
     color: ghostwhite;
     position: static;
 }
+.ativo {
+    z-index: 2;
+}
