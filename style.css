@@ -27,6 +27,7 @@ body{
     max-width: 100px;
     margin: 0 auto;
     text-align: left;
+    text-align-last: left;
 }
 .banner .content h1 {
     margin: 0;
