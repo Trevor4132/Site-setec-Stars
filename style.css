@@ -36,6 +36,14 @@ body{
     color: ghostwhite;
     position: static;
 }
-.ativo {
+.introducao {
+    text-align: left;
     z-index: 2;
+    position: fixed;
+    top: 0;
+    left: 0%;
+    object-fit: cover;
+    width: 100%;
+    color: ghostwhite;
 }
+
